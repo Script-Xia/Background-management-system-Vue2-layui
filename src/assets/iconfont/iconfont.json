@@ -1,0 +1,37 @@
+{
+  "id": "3941617",
+  "name": "后台管理系统-layui+vue2",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "用layui和vue2做一个后台管理系统的demo",
+  "glyphs": [
+    {
+      "icon_id": "12095302",
+      "name": "手",
+      "font_class": "shou",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "629343",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "5121503",
+      "name": "权限",
+      "font_class": "quanxian",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "18170567",
+      "name": "战斗机,作战",
+      "font_class": "warplane",
+      "unicode": "e9d6",
+      "unicode_decimal": 59862
+    }
+  ]
+}
